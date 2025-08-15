@@ -1,3 +1,4 @@
 # manohar-demo
-this is my first git repo
-my name is Manohar
+This is my first git repo.
+<br>
+My name is Manohar
