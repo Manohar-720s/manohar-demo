@@ -1,2 +1,3 @@
 # manohar-demo
-day 1 of learning git 
+this is my first git repo
+my name is Manohar
